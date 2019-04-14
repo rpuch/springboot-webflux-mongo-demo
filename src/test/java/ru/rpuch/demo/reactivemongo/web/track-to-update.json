@@ -1,0 +1,28 @@
+{
+  "name": "def",
+  "description": "a short description",
+  "length": {
+    "unit": "km",
+    "value": 7.4
+  },
+  "vehicles": [
+    {
+      "code": "new1",
+      "transmission": "manual",
+      "ai": "enabled",
+      "max-speed": {
+        "unit": "kph",
+        "value": 200.0
+      }
+    },
+    {
+      "code": "new2",
+      "transmission": "automatic",
+      "ai": "disabled",
+      "max-speed": {
+        "unit": "mph",
+        "value": 150.0
+      }
+    }
+  ]
+}
